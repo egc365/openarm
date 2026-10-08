@@ -1,0 +1,4 @@
+source: /home/egc365/Documents/Robot-build/cad/god-claw-bakeoff/grok/assembly.FCStd
+bytes: 623349
+sha256: 9a0fadb2f5d2d7ff9d7fc04997328c1ecc742a7f1fb2a35e3ad0abbb4e6c9668
+github: copy on branch

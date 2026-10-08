@@ -1,0 +1,4 @@
+source: /home/egc365/Documents/Robot-build/cad/artifacts/components/AmazingHand-right.FCStd
+bytes: 144244971
+sha256: c3c9e4529117f37c3e64778ed31c70fbf10a3da89493ef91456a495c858e1669
+github: hash only, file not uploaded

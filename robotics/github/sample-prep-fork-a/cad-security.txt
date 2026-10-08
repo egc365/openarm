@@ -1,0 +1,4 @@
+source: /home/egc365/Documents/cannabis-sample-prep-cell/forkA/build/forkA_assembly.step
+bytes: 2337666
+sha256: c2b5a6ee4dcc3cb52bad8a3ed555a45d61a52d6a321f6c148afac48e59fdbee8
+github: copy on branch

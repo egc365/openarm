@@ -1,0 +1,5 @@
+clamp: /home/egc365/Documents/engineering/robotics/github/tiny-printed-servo/clamp-plate.stl
+bytes: 39684
+sha256: cc75f77f40eb26af7214597076de11ce8d9dcdc37988056e9fb71c8c137aaf19
+github: copy on branch
+owner_repo: unknown

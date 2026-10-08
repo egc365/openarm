@@ -1,0 +1,8 @@
+source: /home/egc365/Documents/Robot-build/.scratch/modular-six-axis-20261007/run2/cad/modular_six_axis.FCStd
+bytes: 139190
+sha256: a76a19ee69ba3d77d29227db273c44574ba8e477088126e37b012b3449e0b4dd
+github: copy on branch
+engineering_copy: /home/egc365/Documents/engineering/cad/modular-six-axis/modular_six_axis.FCStd
+engineering_bytes: 149065
+engineering_sha256: 365163007f05bb7c72b9c0b0a1264187c2008dcb2a56b1d50609094fa5a9e446
+engineering_copy_uploaded: no

@@ -1,0 +1,4 @@
+source: /home/egc365/Documents/Robot-build/cad/artifacts/components/SO101-stock.FCStd
+bytes: 38523396
+sha256: babd92cf091cef7bdd68f27df05060cb6d88b9d17ac6603179f5397431eb7932
+github: hash only, file not uploaded

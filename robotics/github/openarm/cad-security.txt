@@ -1,0 +1,7 @@
+source: /home/egc365/Documents/cannabis-sample-prep-cell/torso/build_openarm/openarm_orca.step
+bytes: 577954123
+sha256: b2b5c751c709797d7bacc6f7bb0c128adab408a70c16278d4fa53e6af2fa7e0b
+bom: /home/egc365/Documents/cannabis-sample-prep-cell/torso/openarm-bom/OpenArm 2.0 BOM-BOＭ.csv
+bom_bytes: 4310
+bom_sha256: 26966bfd3efb61a6104dddcbaf779fa179d22260ad78850423ebac866d307378
+github: hash only

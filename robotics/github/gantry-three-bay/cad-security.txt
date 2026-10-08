@@ -1,0 +1,7 @@
+source: /home/egc365/Documents/cannabis-sample-prep-cell/.scratch/gantry-three-pairs-20261002/three-pair-tunnel.blend
+bytes: 57549248
+sha256: 586cdf2e7383889a08a93ea3a02e37abc9b126dad8050d442b1d8978d1e3eb9d
+glb: /home/egc365/Documents/cannabis-sample-prep-cell/.scratch/gantry-three-pairs-20261002/three-pair-tunnel.glb
+glb_bytes: 55464212
+glb_sha256: 26c188e8ca87bfcc0e272d3d886b97ba63652bc6d820f4d672911f1dde490e47
+github: hash only

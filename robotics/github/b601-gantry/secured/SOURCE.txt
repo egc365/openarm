@@ -1,0 +1,4 @@
+source: /home/egc365/Documents/engineering/cad/gantry/B601-gantry-working.FCStd
+bytes: 9470436
+sha256: 7507ba47119331c1ceb00b73986aac0c4926afae8b03dda86799da9506498610
+github: copy on branch

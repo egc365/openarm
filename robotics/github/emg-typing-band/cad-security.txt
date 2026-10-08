@@ -1,0 +1,4 @@
+source: /home/egc365/Documents/engineering/emg-typing-band/cad/emg-band-shell.FCStd
+bytes: 32495
+sha256: f7d8e4a75352d5ba4c5948fb1f3269d0344fac5a7cb7240fbbebed1b894487a6
+github: copy on branch
