@@ -1,0 +1,29 @@
+# GitHub API, 2026-10-08
+
+## repos/egc365/openarm
+{"fork":true,"html_url":"https://github.com/egc365/openarm","parent":"enactic/openarm"}
+
+## compare enactic:main...egc365:main
+{"ahead":0,"behind":10,"status":"behind"}
+
+## repos/egc365/openarm_hardware
+{"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/repos#get-a-repository","status":"404"}
+## repos/egc365/openarm_description
+{"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/repos#get-a-repository","status":"404"}
+## enactic/openarm_hardware release 2.0.0
+{"assets":[{"name":"openarm-hardware-2.0.0.tar.gz","size":163124751},{"name":"openarm-hardware-2.0.0.tar.gz.sha256","size":96},{"name":"openarm-hardware-2.0.0.tar.gz.sha512","size":160}],"name":"OpenArm Hardware 2.0.0","published":"2026-09-09T02:06:46Z","tag":"2.0.0"}
+
+## forks of enactic/openarm_hardware owned by egc365
+[]
+
+## commits on enactic/openarm that egc365/openarm does not have
+{"date":"2026-10-05T04:06:08Z","msg":"website: bump typescript-eslint from 8.70.1 to 8.71.0 in /website in the eslint group (#606)","sha":"6f6eab7"}
+{"date":"2026-10-05T04:06:17Z","msg":"website: bump katex from 0.18.9 to 0.19.0 in /website (#607)","sha":"af8f918"}
+{"date":"2026-10-05T04:11:12Z","msg":"website: bump fast-uri from 3.1.7 to 3.1.8 in /website (#611)","sha":"96a6d4a"}
+{"date":"2026-10-05T04:16:11Z","msg":"website: bump http-cache-semantics from 4.2.0 to 4.3.0 in /website (#608)","sha":"1585d27"}
+{"date":"2026-10-05T04:16:20Z","msg":"website: bump dompurify from 3.4.13 to 3.4.16 in /website (#609)","sha":"04a6a48"}
+{"date":"2026-10-05T04:16:28Z","msg":"website: bump brace-expansion from 1.1.18 to 1.1.21 in /website (#610)","sha":"57d21d9"}
+{"date":"2026-10-06T08:13:38Z","msg":"website 2.0: Add in-hand camera specifications to gripper page (#612)","sha":"0ef685a"}
+{"date":"2026-10-07T05:51:12Z","msg":"website: Add FAQ entries for common hardware problems (#613)","sha":"a503b0e"}
+{"date":"2026-10-07T07:18:53Z","msg":"Preserve cached popular issues when fetch fails (#605)","sha":"3cb30d4"}
+{"date":"2026-10-08T09:10:20Z","msg":"website: Unify Discord invite links (#615)","sha":"87d5b3d"}

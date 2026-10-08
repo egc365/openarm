@@ -14,6 +14,8 @@ American Society for Quality. (n.d.-b). *Six Sigma*. https://asq.org/quality-res
 
 GitHub. (n.d.). *About releases*. GitHub Docs. https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases
 
+The same page was opened again on 2026-10-08. It says each file included in a release must be under 2 GiB. That sentence is the limit used for path D. The local STEP is 577954123 bytes, which is under 2 GiB. The file was not uploaded.
+
 Pololu Corporation. (2024, April 3). *Micro metal gearmotors with carbon brushes (HPCB), no encoder* [Drawing 0J949]. https://www.pololu.com/file/0j949/micro-metal-gearmotor-dimensions.pdf
 
 CaptainObvious. (2019, December 8). *N20 geared motor continuous rotation servo with AS5600 magnetic sensor*. Thingiverse. https://www.thingiverse.com/thing:4030416

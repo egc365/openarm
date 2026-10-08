@@ -6,11 +6,11 @@ The trail is `decisions.tsv` in this folder. One row is one decision.
 
 The owner's fork is `https://github.com/egc365/openarm`. Parent is `enactic/openarm`. Ahead 0. Behind 10. The root is the website. It has no STEP tree.
 
-`https://github.com/egc365/openarm_hardware` is a 404 because that repository was never created. It is not the fork.
+`https://github.com/egc365/openarm_hardware` returns HTTP 404. A 404 does not say whether the name was never created, renamed, or deleted. No fork of `enactic/openarm_hardware` is owned by `egc365`. The URL is not the owner's fork. The saved API lines are `openarm/fork-status.txt`.
 
 The Anvil page `https://docs.anvil.bot/introduction/openarm-2.0` is a vendor page. It is not the fork. The degree table is filed with three named columns. The Damiao motor table was not changed.
 
-The local STEP stays at its path and sha256. It was not put in git.
+The local STEP stays at its path and sha256. It was not put in git. Those bytes were not compared with the upstream release tar.gz.
 
 ## Recommendation
 
@@ -24,7 +24,7 @@ B. Fork `enactic/openarm_hardware` into the `egc365` account and date that fork.
 
 C. Pull the 10 commits onto `egc365/openarm`. Those commits do not add STEP files.
 
-D. Upload the 577954123 byte local STEP as a GitHub release asset. A release asset must be under 2 GiB. Do not put the STEP in git.
+D. Upload the 577954123 byte local STEP as a GitHub release asset. GitHub's release page says each release file must be under 2 GiB. The local STEP is under that limit. Do not put the STEP in git. This path was not done, and the local file was not compared with the upstream tar.gz.
 
 Four paths exist. Not three, and not five. B, C, and D were not done.
 
@@ -33,7 +33,7 @@ Four paths exist. Not three, and not five. B, C, and D were not done.
 A later reader can evaluate this session with four checks.
 
 1. The record names `egc365/openarm` as the fork of `enactic/openarm`.
-2. The record says `egc365/openarm_hardware` was never created.
+2. The record says `egc365/openarm_hardware` returns HTTP 404 and is not the owner's fork.
 3. The wrist table names the column for each degree.
 4. The STEP sha256 is on disk and the file is not in git.
 

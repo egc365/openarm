@@ -35,7 +35,7 @@ The hardware URL is still HTTP 404. That sentence was used as if the owner had n
 
 `egc365/openarm` is a fork. The API returned fork true and parent `enactic/openarm`. Compare returned ahead 0 and behind 10. The 10 commits do not add STEP files.
 
-`egc365/openarm_hardware` was never created. It is not the fork. `enactic/openarm_hardware` release 2.0.0 remains upstream CAD. It is not the owner's fork.
+`egc365/openarm_hardware` returns HTTP 404. A 404 does not say whether the name was never created, renamed, or deleted. No fork of `enactic/openarm_hardware` is owned by `egc365`. The URL is not the owner's fork. `enactic/openarm_hardware` release 2.0.0 remains upstream CAD. It is not the owner's fork. The local STEP was not compared byte for byte with that release tar.gz.
 
 The Anvil wrist page was filed from the screenshots and from the markdown twin. Anvil is not the fork. The Damiao motor table was not changed.
 

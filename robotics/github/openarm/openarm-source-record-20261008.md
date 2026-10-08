@@ -10,7 +10,7 @@ Compare `enactic:main...egc365:main` returned ahead 0, behind 10, status behind.
 
 The root listing is the website repo. The folders are `.claude`, `.github`, and `website`. The files are `.editorconfig`, `.gitignore`, `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, `LICENSE`, and `README.md`. That root has no STEP tree and no STL tree.
 
-`https://github.com/egc365/openarm_hardware` is a 404. The GitHub API status is 404. That repository was never created. It is not the fork. The page title is `Page not found · GitHub · GitHub`.
+`https://github.com/egc365/openarm_hardware` returns HTTP 404. The saved API response is `fork-status.txt` in this folder. A 404 does not say whether the name was never created, renamed, or deleted. The forks list for `enactic/openarm_hardware` has no repository owned by `egc365`. This URL is not the owner's fork. The page title is `Page not found · GitHub · GitHub`.
 
 `https://github.com/enactic/openarm` is the parent of the fork. It is not the owner's fork.
 
@@ -25,7 +25,7 @@ These two files exist:
 - `/home/egc365/Documents/cannabis-sample-prep-cell/torso/build_openarm/openarm_orca.step`
 - `/home/egc365/Documents/cannabis-sample-prep-cell/torso/openarm-bom/OpenArm 2.0 BOM-BOＭ.csv`
 
-The STEP file is 577954123 bytes. sha256 `b2b5c751c709797d7bacc6f7bb0c128adab408a70c16278d4fa53e6af2fa7e0b`. Git rejects a file over 100 MB. This file was not uploaded. The modular six-axis arm is not this OpenArm CAD.
+The STEP file is 577954123 bytes. sha256 `b2b5c751c709797d7bacc6f7bb0c128adab408a70c16278d4fa53e6af2fa7e0b`. Git rejects a file over 100 MB. This file was not uploaded. This record does not compare those bytes with `openarm-hardware-2.0.0.tar.gz`. The modular six-axis arm is not this OpenArm CAD.
 
 ## Published OpenArm motors
 
@@ -67,7 +67,7 @@ The drawing on the page shows this assignment:
 - OpenArm 1.0: J6 is extension and flexion. J7 is radial and ulnar deviation.
 - OpenArm 2.0, both the Standard wrist and the Anvil wrist: J6 is radial and ulnar deviation. J7 is extension and flexion.
 
-The degree table is an image on the page. The markdown text does not print the numbers. The numbers below were read from the screenshots on 2026-10-08. The unit is degrees.
+The degree table is an image on the page. The markdown text does not print the numbers. The numbers below were read from the screenshots on 2026-10-08. The unit is degrees. The screenshot pages in this folder are `pictures/07-anvil-jerky-motion.png` through `pictures/13-anvil-cables.png`. The readable copy of the table is `pictures/05-anvil-range-table.png`. The reading of the table is `pictures/06-how-to-read-the-table.png`.
 
 | Joint | Anvil OpenARM 1.0 | Standard OpenARM 2.0 | Anvil OpenARM 2.0 |
 | --- | --- | --- | --- |

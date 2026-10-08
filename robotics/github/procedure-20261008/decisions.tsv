@@ -5,3 +5,4 @@ ts	phase	decision	why	evidence	result
 2026-10-08T17:04:38Z	wrist	Filed the Anvil degree table with three named columns	The screenshots print the degrees and the J6 J7 role swap	https://docs.anvil.bot/introduction/openarm-2.0	Anvil is not the fork. Damiao table unchanged
 2026-10-08T17:04:38Z	path	Recommended path A and did not do B, C, or D	The fork already exists and its README already points at release 2.0.0	procedure-20261008/decisions.md	B C and D not done
 2026-10-08T17:05:07Z	publish	Pushed the correction on robotics-github-20261008 and opened no pull request	The index belongs on the existing branch	commit c2f2d2539bfc24a42cc407d5fc99e9ed1d16f79e	pushed, no pull request
+2026-10-08T17:12:28Z	fork	Superseded the never-created claim	A 404 can also be a rename or a deletion. The forks list only shows no egc365 fork now.	openarm/fork-status.txt	404 stands. Creation history unknown. Local STEP not compared with the tar.gz.

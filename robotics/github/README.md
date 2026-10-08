@@ -3,7 +3,7 @@
 Git branch: `robotics-github-20261008`
 Repository: https://github.com/egc365/openarm
 That repository is the owner's fork. Parent is enactic/openarm. Ahead 0. Behind 10.
-https://github.com/egc365/openarm_hardware was never created. That 404 is not the fork.
+https://github.com/egc365/openarm_hardware returns HTTP 404. That URL is not the fork. A 404 does not say whether the name was never created, renamed, or deleted.
 No pull request.
 
 Each design has one folder. Each build report has one picture per page, on a white page.
