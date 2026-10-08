@@ -1,0 +1,6 @@
+ts	phase	decision	why	evidence	result
+2026-10-08T17:04:38Z	fork	Named egc365/openarm as the owner fork	The API returned fork true and parent enactic/openarm	gh api repos/egc365/openarm on 2026-10-08	ahead 0, behind 10
+2026-10-08T17:04:38Z	fork	Kept the hardware 404 as a repository that was never created	A guessed URL is not evidence that the owner has no fork	gh api repos/egc365/openarm_hardware HTTP 404	not the fork
+2026-10-08T17:04:38Z	cad	Left the 577954123 byte STEP out of git	Git rejects a file over 100 MB	openarm/cad-security.txt	hash only
+2026-10-08T17:04:38Z	wrist	Filed the Anvil degree table with three named columns	The screenshots print the degrees and the J6 J7 role swap	https://docs.anvil.bot/introduction/openarm-2.0	Anvil is not the fork. Damiao table unchanged
+2026-10-08T17:04:38Z	path	Recommended path A and did not do B, C, or D	The fork already exists and its README already points at release 2.0.0	procedure-20261008/decisions.md	B C and D not done
